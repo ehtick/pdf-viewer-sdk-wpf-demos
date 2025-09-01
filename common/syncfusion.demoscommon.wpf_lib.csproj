@@ -74,7 +74,7 @@
 		<PackageReference Include="Microsoft.Extensions.AI.OpenAI">
 			<Version>9.0.1-preview.1.24570.5</Version>
 		</PackageReference>
-		<PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="*" />
+		<PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.19" />
 		<PackageReference Include="Syncfusion.SfBusyIndicator.WPF" Version="*" />
 		<PackageReference Include="Syncfusion.SfInput.WPF" Version="*" />
 		<PackageReference Include="Syncfusion.SfNavigationDrawer.WPF" Version="*" />
